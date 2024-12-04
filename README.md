@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # The RUBRIC:
@@ -18,3 +19,6 @@ Requirements
 - Content, transitions, and conclusions flow smoothly within any time restrictions. (5 points)
 - The content is relevant to the project. (10 points)
 - The presentation maintains audience interest. (5 points)
+=======
+# Project4
+>>>>>>> 549dda0893292fa7802fd1e2a24e8a67930e1aca
