@@ -14,7 +14,9 @@ The project follows a complete pipeline that involves:
 ## Dataset Source
 
 - **Dataset**: [BRFSS 2023 Annual Data](https://www.cdc.gov/brfss/annual_data/annual_2023.html)
+- **Referred Code**: [Diabetes Health Indicators Notebook](https://www.kaggle.com/code/alexteboul/diabetes-health-indicators-dataset-notebook/notebook)
 - **Health Indicator References**: [CDC - PCD Article (2019)](https://www.cdc.gov/pcd/issues/2019/19_0109.htm)
+
 
 ---
 
